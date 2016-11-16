@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/samhunt0/udemy-node#readme",
   "dependencies": {
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.2",
+    "yargs": "^4.7.1"
   }
 }
