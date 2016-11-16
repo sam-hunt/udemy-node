@@ -1,0 +1,22 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhunt0/udemy-node.git"
+  },
+  "author": "Sam Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samhunt0/udemy-node/issues"
+  },
+  "homepage": "https://github.com/samhunt0/udemy-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
